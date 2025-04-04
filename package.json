@@ -5,7 +5,7 @@
   "description": "Musma's ESLint config with Vue",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Musma/eslint-config-vue.git"
+    "url": "https://github.com/Musma/eslint-config-vue.git"
   },
   "license": "MIT",
   "main": "index.js",
