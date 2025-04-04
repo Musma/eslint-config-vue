@@ -1,10 +1,11 @@
 {
   "name": "@musma/eslint-config-vue",
-  "version": "0.0.1",
+  "private": false,
+  "version": "1.0.0",
   "description": "Musma's ESLint config with Vue",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Musma/eslint-config-vue"
+    "url": "git+https://github.com/Musma/eslint-config-vue.git"
   },
   "license": "MIT",
   "main": "index.js",
@@ -25,5 +26,16 @@
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "typescript-eslint": "^8.29.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Musma/eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/Musma/eslint-config-vue#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "musma"
+  ],
+  "author": "musma"
 }
